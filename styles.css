@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+body{background-color:#EAECEE}
+.header{background-color:black;color:white;font-family:sans-serif;text-align:center;padding:20px;}
+.latest-news-section{display:block;background-color:white;padding:20px;border-radius:10px;}
+h3{font-family:sans-serif}
+.box{background-color:white;padding:10px;border-radius:10px;text-align:center}
+#pictorial-news-section{background-color:white;padding:10px;border-radius:10px
+	}
+.img{height:90px}
+#all{display:flex;justify-content:space-around;}
+.pictorial-news-section{width:200px}
