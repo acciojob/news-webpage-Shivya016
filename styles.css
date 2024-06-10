@@ -8,4 +8,4 @@ h3{font-family:sans-serif}
 	}
 .img{height:90px;}
 #all{display:flex;justify-content:space-around;gap:5px}
-.pictorial-news-section{display:flex;flex-direction:row}
+.pictorial-news-section{display:grid;flex-direction:row}
